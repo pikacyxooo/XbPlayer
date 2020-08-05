@@ -1,0 +1,5 @@
+<div class="xbPlayer">
+  <div class="xbPlayer-info">
+    {{@ author}}
+  </div>
+</div>
